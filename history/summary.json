@@ -22,19 +22,19 @@
     "url": "https://webmail.bizbroinc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.bizbroinc.ca.ico",
     "slug": "mail-server",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 438,
-    "timeDay": 480,
-    "timeWeek": 448,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "status": "up",
+    "uptime": "98.28%",
+    "uptimeDay": "53.62%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.28%",
+    "time": 432,
+    "timeDay": 443,
+    "timeWeek": 430,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2022-10-03": 100
+      "2022-10-03": 668
     }
   },
   {
